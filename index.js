@@ -46,7 +46,7 @@ const {
   const mode = config.MODE
   const online = config.ALWAYS_ONLINE
   const status = config.AUTO_STATUS_SEEN
-  const ownerNumber = ['243833389567']
+  const ownerNumber = ['224661136877']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -116,7 +116,7 @@ const port = process.env.PORT || 9090;
   console.log('Bot connected to whatsapp ✅')
   
   let up = `*🌑 𝐒𝐀𝐋𝐔𝐓 𝐓𝐎𝐈, 𝐔𝐓𝐈𝐋𝐈𝐒𝐀𝐓𝐄𝐔𝐑 𝐒𝐎𝐁𝐑𝐄...*
-*🤖 𝐋𝐄 𝐁𝐎𝐓 𝐊𝐘𝐎𝐓𝐀𝐊𝐀 𝐓𝐄 𝐒𝐀𝐋𝐔𝐄 𝐃𝐀𝐍𝐒 𝐋𝐄 𝐍𝐎𝐈𝐑 🔥*
+*🤖 𝐋𝐄 𝐁𝐎𝐓 𝕿𝕺𝕶𝖄𝕺 索武 𝐓𝐄 𝐒𝐀𝐋𝐔𝐄 𝐃𝐀𝐍𝐒 𝐋𝐄 𝐍𝐎𝐈𝐑 🔥*
 *✅ 𝐂𝐎𝐍𝐍𝐄𝐗𝐈𝐎𝐍 𝐑𝐄𝐔𝐒𝐒𝐈𝐄 !*
   
 *╭───━━━━───━━━━──┉┈⚆*
