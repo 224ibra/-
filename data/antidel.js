@@ -1,4 +1,3 @@
-
 const { DATABASE } = require('../lib/database');
 const { DataTypes } = require('sequelize');
 
