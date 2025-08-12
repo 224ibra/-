@@ -6,7 +6,7 @@
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name 𝕿𝕺𝕶𝖄𝕺 索武",
     "stop": "pm2 stop 𝕿𝕺𝕶𝖄𝕺 索武",
-    "restart": "pm2 restart KYOTAKA-MD"
+    "restart": "pm2 restart 𝕿𝕺𝕶𝖄𝕺 索武"
   },
   "dependencies": {
     "@bochilteam/scraper": "3.0.0",
