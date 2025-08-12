@@ -1,8 +1,8 @@
 {
-  "name": "KYOTAKA-MD",
-  "description": "KYOTAKA BOT développer comme du n'importe quoi 🎯",
+  "name": "𝕿𝕺𝕶𝖄𝕺 索武",
+  "description": "𝕿𝕺𝕶𝖄𝕺 索武 BOT développer comme du n'importe quoi 🎯",
   "logo": "https://files.catbox.moe/pnzrc4.png",
-  "keywords": ["KYOTAKA-MD"],
+  "keywords": ["𝕿𝕺𝕶𝖄𝕺 索武"],
   "success_url": "/",
 
     "stack": "container",
@@ -17,7 +17,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ＳＨＡＤＯＷ ＣＯＤＥ  ＢＹ  ＫＹＯＴＡＫＡ"
+      "value": "ＳＨＡＤＯＷ ＣＯＤＥ  ＢＹ  𝕿𝕺𝕶𝖄𝕺 索武"
     }, 
       
     "PREFIX": {
@@ -102,14 +102,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*ＣＥ ＳＴＡＴＵＳ ＥＴＡＩＴ ＴＥＬＬＥＭＥＮＴ ＰＲＥＶＩＳＩＢＬＥ...  ＤＥＣＥＶＡＮＴ ＢＯＮ ＶＯＩＬＡ，ＫＹＯＴＡＫＡ Ｌ’Ａ ＲＥＣＵＰＥＲＥ*"
+      "value": "*ＣＥ ＳＴＡＴＵＳ ＥＴＡＩＴ ＴＥＬＬＥＭＥＮＴ ＰＲＥＶＩＳＩＢＬＥ...  ＤＥＣＥＶＡＮＴ ＢＯＮ ＶＯＩＬＡ，𝕿𝕺𝕶𝖄𝕺 索武 Ｌ’Ａ ＲＥＣＵＰＥＲＥ*"
    
      }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KYOTAKA-MD"
+      "value": "𝕿𝕺𝕶𝖄𝕺 索武"
 
       }, 
     
